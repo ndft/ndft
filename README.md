@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndft
 - 👀 I’m interested in ecology, finance, technology, ios
-- 🌱 I’m currently learning C & Swift
+- 🌱 I’m currently learning Swift, Python and C
 - 💞️ I’m looking to collaborate on Yandex, Ozon etc..
 - 📫 t.me/latern
 
